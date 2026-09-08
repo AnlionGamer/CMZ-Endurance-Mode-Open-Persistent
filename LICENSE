@@ -1,61 +1,86 @@
-Endurance Mode: Open + Persistent v1.2.1
-Community Test Distribution Terms
+AnlionGamer Community Distribution Terms v1.0
 
 Copyright (c) 2026 AnlionGamer. All rights reserved except as expressly granted below.
 
-These terms preserve the distribution condition embedded in the released v1.2.1 package: non-commercial redistribution only with author permission.
+These terms apply to original material owned by AnlionGamer and distributed with this license. They are intended to allow normal community use, inspection, private modification, interoperability, preservation, and good-faith testing while keeping public redistribution of the project and derivative builds under the author's control.
 
 1. Permission to Use
 
-You may download, install, run, and use this software for personal, private, community, compatibility, preservation, testing, and ordinary gameplay purposes.
+You may download, install, run, and use the Licensed Work for personal, private, community, compatibility, preservation, testing, educational, accessibility, development, and ordinary gameplay purposes.
 
-2. Source Review
+2. Source Review and Private Modification
 
-Source code published in this repository may be inspected and studied for transparency, interoperability, compatibility, debugging, preservation, and educational purposes.
+Source code and other editable material published with this license may be inspected, studied, backed up, and modified privately for transparency, interoperability, compatibility, debugging, preservation, education, accessibility, and good-faith testing.
 
-No general permission to publish modified builds, forks, or derivative distributions is granted by these terms unless AnlionGamer gives separate permission.
+This permission does not by itself authorize public distribution of the Licensed Work, modified builds, forks, derivative packages, or substantial copied portions of the Licensed Work.
 
 3. Redistribution
 
-Redistribution of the original software, source, packaged mod, or modified versions is permitted only when BOTH of the following are true:
+Redistribution of the original Licensed Work, its source, packaged releases, or modified/derivative versions is permitted only when BOTH of the following are true:
 
 - the redistribution is non-commercial; and
 - prior permission has been granted by AnlionGamer.
 
-Any permitted redistribution must preserve reasonable attribution, this license, applicable notices, and clear identification of modifications.
+Any permitted redistribution must preserve this license, applicable copyright and project notices, reasonable attribution to AnlionGamer, relevant third-party notices, and clear identification of any modifications. A permitted redistributed or modified copy must not be represented as an original AnlionGamer release unless AnlionGamer expressly authorizes that representation.
 
 4. No Sale or Paid Access
 
-Without separate written permission from AnlionGamer, you may not sell, rent, sublicense for a fee, place behind paid access, require a donation for, bundle into a paid product, or otherwise commercially distribute this software or a modified version containing substantial portions of it.
+Without separate written permission from AnlionGamer, you may not sell, rent, sublicense for a fee, place behind paid access, require a donation for, bundle into a paid product, charge for downloads or updates to, or otherwise commercially distribute the Licensed Work or a modified version containing substantial portions of it.
 
-5. Identity and No Endorsement
+Voluntary donations, monetized videos, livestreams, reviews, tutorials, articles, screenshots, and guides are allowed when payment is not required to obtain or use the Licensed Work itself.
 
-You may not falsely represent a modified or redistributed build as an original AnlionGamer release or imply approval, sponsorship, affiliation, or endorsement that has not been granted.
+5. Independent Works and Extensions
 
-References to Castle Miner Z are solely for compatibility and identification.
+This license does not claim ownership of independently created work merely because it interoperates with, depends on, extends, or is compatible with the Licensed Work.
 
-6. Third-Party Rights
+Authors of independently created mods, tools, scenarios, themes, translations, configurations, integrations, plugins, documentation, or other extensions retain ownership of their own original material and may choose separate terms for that material, subject to applicable third-party rights.
+
+This section does not permit copying substantial portions of the Licensed Work into another product and treating the copied material as independently created.
+
+6. Identity, Attribution, and No Endorsement
+
+You may not falsely represent a modified, redistributed, or independently created work as an original release from AnlionGamer or imply approval, sponsorship, affiliation, or endorsement that has not been granted.
+
+References to Castle Miner Z, CastleMiner Z, CMZ, or related project names are solely for compatibility and identification unless explicitly stated otherwise by the applicable rights holder.
+
+7. Third-Party Rights
 
 Castle Miner Z, its name, executable code, assets, game content, trademarks, and other original material remain the property of their respective rights holders.
 
-These terms grant rights only to material AnlionGamer has authority to license. They do not grant rights to Castle Miner Z or other third-party material.
+Third-party libraries, assets, code, or other material included with or referenced by the Licensed Work remain governed by their respective licenses and rights. These terms grant rights only to material AnlionGamer has authority to license and do not remove, replace, or restrict permissions granted by an applicable third-party license.
 
-7. Responsible Use
+8. Responsible Use
 
-Nothing in these terms authorizes malicious, deceptive, unlawful, or non-consensual interference with another person's computer, account, files, save data, world data, or multiplayer session.
+Nothing in these terms authorizes malicious, deceptive, unlawful, or non-consensual interference with another person's computer, account, files, save data, world data, credentials, multiplayer session, or other systems.
 
-8. Separate Permission
+Good-faith security, stability, compatibility, and interoperability work is permitted on systems you own, accounts you control, isolated test environments, or systems for which you have explicit authorization to test.
 
-AnlionGamer may grant broader permission for modification, redistribution, community forks, or other uses separately in writing. Future releases may use different terms; such changes do not automatically alter the terms attached to v1.2.1.
+9. Separate Permission and Future Terms
 
-9. No Warranty
+AnlionGamer may grant broader permission for redistribution, modification, mirrors, collaborations, derivative projects, or other uses separately in writing.
 
-THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, TO THE MAXIMUM EXTENT PERMITTED BY LAW.
+Future releases may use different terms. A later licensing change does not automatically alter the terms attached to an earlier copy.
 
-10. Limitation of Liability
+10. Historical Licenses and Previously Distributed Copies
 
-TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE COPYRIGHT HOLDER SHALL NOT BE LIABLE FOR INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES ARISING FROM USE OF OR INABILITY TO USE THE SOFTWARE.
+These terms do not revoke permissions already granted to a copy under an earlier license. Copies, releases, commits, or packages previously distributed under MIT or other documented terms retain the permissions that accompanied those copies.
+
+These Community Distribution Terms govern only material distributed with these terms, subject to any applicable third-party or historical license.
+
+11. No Warranty
+
+THE LICENSED WORK IS PROVIDED "AS IS" AND "AS AVAILABLE," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, TO THE MAXIMUM EXTENT PERMITTED BY LAW.
+
+12. Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE COPYRIGHT HOLDER SHALL NOT BE LIABLE FOR INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES ARISING FROM USE OF OR INABILITY TO USE THE LICENSED WORK.
+
+13. Severability and No Waiver
+
+If a provision of these terms is held invalid or unenforceable, it shall be limited or interpreted to the minimum extent necessary while the remaining provisions remain effective to the extent permitted by law.
+
+Failure to enforce a provision in one instance does not waive the right to enforce it later.
 
 Plain-language summary
 
-You may download and use v1.2.1 and inspect its published source. You may not sell it. Redistribution, including redistribution of modified versions, requires AnlionGamer's permission and must remain non-commercial. Castle Miner Z remains the property of its respective rights holders.
+You may use the project, inspect its published source, and make private modifications. You may not sell it. Public redistribution of the original project or modified versions requires AnlionGamer's prior permission and must remain non-commercial. Independent extensions remain the property of their own authors. Older copies already released under another license keep the permissions that accompanied those copies. Castle Miner Z and other third-party material remain the property of their respective rights holders.
