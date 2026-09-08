@@ -1,0 +1,33 @@
+{
+  "packageFormat": 1,
+  "id": "cmz.endurance-open-access",
+  "name": "Endurance Mode: Open + Persistent",
+  "version": "1.2.1",
+  "author": "AnlionGamer",
+  "description": "Makes normal Endurance operate as an open, persistent world without changing Endurance gameplay: late joining remains available, vanilla saved-world selection is exposed, persistent-mode terrain flushing is used, and EndGame no longer automatically deletes the active normal-Endurance world. Returning players continue to use CastleMiner Z's vanilla per-world inventory protocol.",
+  "gameVersion": "1.9.9.8",
+  "framework": "1.0.0",
+  "api": "1.0.0",
+  "entryAssembly": "CMZ.EnduranceModeOpenPersistent.dll",
+  "entryType": "CMZ.EnduranceModeOpenPersistent.EnduranceModeOpenPersistentMod",
+  "dependencies": [],
+  "optionalDependencies": [],
+  "incompatibilities": [
+    {
+      "id": "cmz.endurance-open-join",
+      "version": "*"
+    }
+  ],
+  "loadAfter": [],
+  "loadBefore": [],
+  "files": [
+    {
+      "sha256": "18F5CAAF7BC5828A6F96C4FDF8AE7F5CFC757F6C984551917411A4AD41400964",
+      "path": "CMZ.EnduranceModeOpenPersistent.dll"
+    }
+  ],
+  "license": "Community test build; non-commercial redistribution only with author permission.",
+  "releaseNotes": "v1.2.1: Formal display-name/internal-branding rename plus builder identity/version hardening. Retains the v1.2.0 persistence pass: normal Endurance uses persistent-mode terrain flushing and its active world is protected from EndGame automatic deletion. v1.0.0 late joining and v1.1.0 vanilla world selection remain intact. Vanilla host/guest .inv persistence is preserved; Endurance gameplay and difficulty remain unchanged.",
+  "publisher": "AnlionGamer",
+  "multiplayer": "Host-side mod. Joining players are expected to remain vanilla-compatible because player inventory retrieval/storage uses CastleMiner Z's existing RequestInventory / InventoryRetrieveFromServer / InventoryStoreOnServer protocol. Persistent returning-player behavior still requires runtime multiplayer verification."
+}
