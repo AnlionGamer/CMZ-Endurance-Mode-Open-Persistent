@@ -79,7 +79,11 @@ The repository contains the exact v1.2.1 runtime source, the generated v1.2.1 id
 
 ## License and attribution
 
-The current v1.2.1 package identifies its distribution terms as **non-commercial redistribution only with author permission**. The repository's `LICENSE` preserves those current v1.2.1 terms rather than silently applying different terms to the same package.
+The current repository `main` branch and future Endurance Mode: Open + Persistent work are governed by the **AnlionGamer Community Distribution Terms v1.0**. See [`LICENSE`](LICENSE).
+
+The terms allow normal use, source inspection, and private modification. Public redistribution of the original project, source, packaged mod, forks, or modified builds requires **prior permission from AnlionGamer** and must remain **non-commercial**. Sale and paid access are prohibited without separate permission.
+
+The released v1.2.1 package already states the same core distribution condition: non-commercial redistribution only with author permission. Copies previously distributed under documented terms retain the permissions that accompanied those copies.
 
 Castle Miner Z and its original game material remain the property of their respective rights holders. See [`NOTICE.md`](NOTICE.md).
 
