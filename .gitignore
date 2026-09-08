@@ -1,0 +1,21 @@
+# Public repository: keep private development/builders out
+Builder/
+OUTPUT/
+bin/
+obj/
+*.pdb
+*.log
+*_Official_Builder*.zip
+*Builder*.zip
+
+# Release binaries belong on GitHub Releases, not the source branch
+*.cmzmod
+*.cmzmod.zip
+
+# Local/editor files
+.vs/
+.vscode/
+*.user
+*.suo
+.DS_Store
+Thumbs.db
