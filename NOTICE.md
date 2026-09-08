@@ -6,9 +6,11 @@
 
 The project was previously known as **Endurance Open Access**. The stable manifest ID `cmz.endurance-open-access` is intentionally retained for update compatibility and should not be interpreted as stale active branding.
 
-The current v1.2.1 release is distributed under the terms in `LICENSE`.
+The current repository `main` branch and future Endurance Mode: Open + Persistent work are governed by the **AnlionGamer Community Distribution Terms v1.0**. See `LICENSE` for the controlling terms.
 
-When redistributing the project under separate permission from AnlionGamer, preserve the applicable license, this notice, reasonable credit to **AnlionGamer** as the original creator, and clear identification of modified or forked versions.
+Public redistribution of project material or modified versions governed by the current terms requires prior permission from **AnlionGamer** and must remain non-commercial. Any permitted redistribution must preserve the applicable license, this notice, reasonable attribution, and clear identification of modifications.
+
+The released v1.2.1 package states the same core distribution condition: non-commercial redistribution only with author permission. Copies already distributed under earlier documented terms retain the permissions that accompanied those copies.
 
 ## Castle Miner Z
 
@@ -20,8 +22,8 @@ References to Castle Miner Z are solely for compatibility and identification. No
 
 ## Distribution identity
 
-Only releases published by AnlionGamer through an expressly designated project distribution location should be represented as original AnlionGamer releases. Modified or redistributed builds must not imply endorsement that has not been granted.
+Only releases published by AnlionGamer through an expressly designated project distribution location should be represented as original AnlionGamer releases. Modified or redistributed builds must not imply approval or endorsement that has not been granted.
 
 ## No warranty
 
-The software is provided without warranty under the terms in `LICENSE`.
+The software is provided without warranty under the terms in `LICENSE` or the historical terms applicable to the specific copy being used.
