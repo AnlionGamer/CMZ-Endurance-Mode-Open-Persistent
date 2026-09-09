@@ -89,10 +89,6 @@ Castle Miner Z and its original game material remain the property of their respe
 
 ## Release integrity
 
-`CMZ_Endurance_Mode_Open_Persistent_v1.2.1.cmzmod`
+GitHub automatically publishes a SHA-256 digest for each uploaded release asset. The digest shown by GitHub for the asset on the **Releases** page is the authoritative public checksum for that uploaded file.
 
-SHA-256:
-
-`F71A3A38655EC65FAB60BEDB92E6164FD1E0A6C1BBB8610BDA9626485843B21F`
-
-See [`SHA256SUMS.txt`](SHA256SUMS.txt) for the machine-readable checksum line.
+This repository does not separately publish a manual release-file checksum. SHA-256 values embedded in the mod package remain part of package integrity metadata and are not alternate public release checksums.
