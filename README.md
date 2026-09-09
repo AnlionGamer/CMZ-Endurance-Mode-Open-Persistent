@@ -86,9 +86,3 @@ The terms allow normal use, source inspection, and private modification. Public 
 The released v1.2.1 package already states the same core distribution condition: non-commercial redistribution only with author permission. Copies previously distributed under documented terms retain the permissions that accompanied those copies.
 
 Castle Miner Z and its original game material remain the property of their respective rights holders. See [`NOTICE.md`](NOTICE.md).
-
-## Release integrity
-
-GitHub automatically publishes a SHA-256 digest for each uploaded release asset. The digest shown by GitHub for the asset on the **Releases** page is the authoritative public checksum for that uploaded file.
-
-This repository does not separately publish a manual release-file checksum. SHA-256 values embedded in the mod package remain part of package integrity metadata and are not alternate public release checksums.
